@@ -1,0 +1,1 @@
+docker build -t todofrontend --build-arg REACT_APP_API_HOST=todobackend ./todo-app/front-end/
